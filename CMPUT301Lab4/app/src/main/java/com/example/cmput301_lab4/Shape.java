@@ -6,5 +6,4 @@ public abstract class Shape {
     protected int y;
 
     protected String color = "Magenta";
-
 }
